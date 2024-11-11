@@ -91,4 +91,27 @@ UV_TOOL_VERSIONS = {
             sha256 = "6cb6eaf711cd7ce5fb1efaa539c5906374c762af547707a2041c9f6fd207769a",
         ),
     },
+    "0.5.1": {
+        "aarch64-apple-darwin": struct(
+            sha256 = "240bc4dc0d424ce652746ea030e61798c07e3d22426c0e0fb46d1b408078df91",
+        ),
+        "aarch64-unknown-linux-gnu": struct(
+            sha256 = "aab7f31071c548e3ce64de5f622494f8d8679ef838d5b07e53e74399d14ee79f",
+        ),
+        "powerpc64le-unknown-linux-gnu": struct(
+            sha256 = "1ce2764b411864597309fc331a31009dfb44abdd5ce767b83e4fa8208b9a7a9a",
+        ),
+        "s390x-unknown-linux-gnu": struct(
+            sha256 = "362fbe64935721239c7e75e96ad1b313b30a2fc13b4a87470a5ff040c883bf2c",
+        ),
+        "x86_64-apple-darwin": struct(
+            sha256 = "817c11ee1808a775290d694c28090e032076be2c97e04c3fb7d5563a2aa52041",
+        ),
+        "x86_64-pc-windows-msvc": struct(
+            sha256 = "3dcb47a9334d7527e402eba8ba5aae3a62c77cddc3ce400f57fe2a40a621000d",
+        ),
+        "x86_64-unknown-linux-gnu": struct(
+            sha256 = "942e29ff6769b096c7c99e9c3b1c08276869667d0d5d6121852dd9b9d875b3f3",
+        ),
+    },
 }
